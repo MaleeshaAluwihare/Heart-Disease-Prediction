@@ -19,7 +19,7 @@ Heart disease is a leading cause of death worldwide. This project utilizes machi
 The dataset used in this project contains multiple features related to heart health, such as age, sex, blood pressure, cholesterol levels, etc. It is essential for training and evaluating the performance of the model.
 
 - **Source**: [https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data]
-- **Readme**: [https://github.com/MaleeshaAluwihare/Heart-Disease-Prediction/blob/de7ee6857c32c0169f55b4303424e1dbea6726e0/DATASET_README.md]
+- [Dataset Information](./DATASET_README.md)
 
 ## Model Training
 The model is trained using various machine learning algorithms to identify patterns in the dataset that indicate heart disease. The following steps are included in the training process:
