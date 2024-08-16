@@ -18,22 +18,7 @@ Heart disease is a leading cause of death worldwide. This project utilizes machi
 ## Dataset
 The dataset used in this project contains multiple features related to heart health, such as age, sex, blood pressure, cholesterol levels, etc. It is essential for training and evaluating the performance of the model.
 
-- **Source**: [Link to the dataset source if available]
-- **Attributes**:
-  - `age`: Age of the user
-  - `sex`: Gender of the user
-  - `cp`: Chest pain type
-  - `trestbps`: Resting blood pressure
-  - `chol`: Serum cholesterol in mg/dl
-  - `fbs`: Fasting blood sugar > 120 mg/dl
-  - `restecg`: Resting electrocardiographic results
-  - `thalach`: Maximum heart rate achieved
-  - `exang`: Exercise induced angina
-  - `oldpeak`: ST depression induced by exercise relative to rest
-  - `slope`: The slope of the peak exercise ST segment
-  - `ca`: Number of major vessels colored by fluoroscopy
-  - `thal`: Thalassemia
-  - `target`: Target variable (0 = No heart disease, 1 = Heart disease)
+- **Source**: [https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data]
 
 ## Model Training
 The model is trained using various machine learning algorithms to identify patterns in the dataset that indicate heart disease. The following steps are included in the training process:
